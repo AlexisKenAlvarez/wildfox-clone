@@ -27,22 +27,19 @@ const Nav = () => {
 
   const navList = [
     {
-      label: "Twitter",
+      label: "Home",
       link: "",
     },
 
     {
-      label: "Telegram",
+      label: "About",
       link: "",
     },
     {
-      label: "Dextools",
+      label: "Tokenomics",
       link: "",
     },
-    {
-      label: "Telegram",
-      link: "",
-    },
+
   ];
 
   return (
